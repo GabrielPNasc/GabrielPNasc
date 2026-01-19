@@ -1,5 +1,5 @@
 
-## Oi sou Gabriel Nascimentoestou ingressando no mundo da programação e tecnologia!
+## Oi sou Gabriel Nascimento estou ingressando no mundo da programação e tecnologia!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPNasc)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPNasc&layout=compact)
   
