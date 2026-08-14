@@ -13,7 +13,6 @@
 - 💻 Focado em desenvolvimento **backend** e automações
 - 🔭 Trabalhando atualmente em projetos com **Python, Java e APIs REST**
 - 🌱 Aprendendo mais sobre boas práticas de arquitetura e segurança
-- ⚡ Curioso por tecnologia, automação e sistemas inteligentes
 
 ---
 
@@ -32,7 +31,6 @@
 
 - 🔎 **[Sistema de Detecção de Movimento](https://github.com/GabrielPNasc/Sistema-de-Detectacao-de-movimento)** — Monitora uma janela via pixels, dispara alerta sonoro e envia imagem pelo WhatsApp
 - 🔐 **[API System Login](https://github.com/GabrielPNasc/API_system_login)** — API de autenticação com cadastro, login e validação de credenciais
-- 📱 **[Gerador de QR Code](https://github.com/GabrielPNasc/Gerador-de-QRCode)** — Conversor de link para QR Code usando Java + Spring Boot + ZXing
 - 📊 **[Nesvt](https://github.com/GabrielPNasc/Nesvt)** — Notificações de mercado com base em variação percentual configurável
 - 📍 **[Buscador de CEP](https://github.com/GabrielPNasc/Buscador-de-Cep)** — Consulta CEPs usando múltiplas APIs e retorna a resposta mais rápida
 
