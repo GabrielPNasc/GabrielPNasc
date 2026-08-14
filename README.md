@@ -5,17 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Java+%7C+APIs;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
----
-
-### 🧑‍💻 Sobre mim
-
-- 🎓 Estudante de CC na **Cesar School**
-- 💻 Focado em desenvolvimento **backend** e automações
-- 🔭 Trabalhando atualmente em projetos com **Python, Java e APIs REST**
-- 🌱 Aprendendo mais sobre boas práticas de arquitetura e segurança
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
