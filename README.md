@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Nascimento 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel Nascimento 👋</h1>
 <h3 align="center">Estudante de Ciência da Computação na Cesar School | Entrando no mundo da programação e tecnologia 🚀</h3>
 
 <p align="center">
