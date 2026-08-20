@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Ciência da Computação na Cesar School | Entrando no mundo da programação e tecnologia 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%7C+Java+%7C+APIs;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%7C+Java;" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
