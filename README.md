@@ -1,7 +1,6 @@
 # seu-usuario · README
 
 ```
-seu-usuario@github
 -------------------
 
 
