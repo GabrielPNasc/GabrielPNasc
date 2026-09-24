@@ -1,24 +1,75 @@
-<h1 align="center">Olá, eu sou Gabriel Nascimento 👋</h1>
-<h3 align="center">Estudante de Ciência da Computação na Cesar School | Entrando no mundo da programação e tecnologia 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%7C+Java;" alt="Typing SVG" />
-</p>
+### `> Olá, meu nome é`
+### **Seu Nome**
 
-### 🛠️ Tecnologias e Ferramentas
+`Desenvolvedor(a) · Sempre aprendendo`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
----
-### 📫 Onde me encontrar
+<br>
 
-<p align="left">
-  <a href="https://www.youtube.com/@Pires_nasc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/pires.nasc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabrielpnasc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## ▸ sobre_mim.txt
+
+```
+> nome        : Seu Nome
+> área        : ex. Desenvolvimento Web / Engenharia
+> foco atual  : ex. estudando lógica, algoritmos, etc.
+> curiosidade : ex. algo divertido sobre você
+```
+
+<br>
+
+## ▸ stack/
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+
+</div>
+
+<br>
+
+## ▸ projetos/
+
+<table align="center">
+  <tr>
+    <td width="400">
+      <h3>📦 Nome do Projeto</h3>
+      <p>Breve descrição do que o projeto faz.</p>
+      <a href="#">▸ ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="400">
+      <h3>📦 Nome do Projeto 2</h3>
+      <p>Breve descrição do que o projeto faz.</p>
+      <a href="#">▸ ver repositório</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## ▸ contato.exe
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail)](mailto:seu@email.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+[ press any key to continue... ]
+```
+
+</div>
