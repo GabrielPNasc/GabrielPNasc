@@ -2,12 +2,12 @@
 
 ```
 -------------------
-About.me: ... Computer Science Student in CESAR SCHOOL
+About.Me: ... Computer Science Student in CESAR SCHOOL
 
 Languages.Programming: ... Java, Python
 Languages.Real: .......... Português, Inglês
 
-Hobbies: .................. Jogos, TCG, Sports
+Hobbies: .................. Games, TCG, Sports
 
 Projects
  - Gerador de QR Code ............ Java, Spring Boot
