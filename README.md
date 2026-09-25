@@ -9,6 +9,10 @@ Languages.Real: .......... Português, Inglês
 
 Hobbies: .................. Games, TCG, Sports
 
+Websites
+ - Portifolio ............ https://gabrielnasc.vercel.app/
+
+
 Projects
  - Gerador de QR Code ............ Java, Spring Boot
  - Detecção de Movimento .......... Python
